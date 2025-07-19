@@ -75,9 +75,14 @@ The insights derived from SQL queries are visually represented through an intera
 - Category & Size Analysis
 - Product-Level Performance
 
-📌 *(Optional: Include `.pbix` file or screenshots if you're uploading them)*
+# Dashboard Screenshots
 
----
+Below are snapshots of the Power BI dashboard showcasing key sales insights and trends:
 
-## 📂 Project Files
+### 📊 Dashboard - Page 1
+![Pizza Sales Dashboard Page 1](https://github.com/Yaqub-123/Pizza-Sales-Analysis/blob/main/Dashboard.jpeg)
+
+### 📈 Dashboard - Page 2
+![Pizza Sales Dashboard Page 2](https://github.com/Yaqub-123/Pizza-Sales-Analysis/blob/main/Dashboards%20Page%202.jpeg)
+
 
