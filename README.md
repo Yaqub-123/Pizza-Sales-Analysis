@@ -86,3 +86,10 @@ Below are snapshots of the Power BI dashboard showcasing key sales insights and 
 ![Pizza Sales Dashboard Page 2](https://github.com/Yaqub-123/Pizza-Sales-Analysis/blob/main/Dashboards%20Page%202.jpeg)
 
 
+## 👨‍💻 Author
+
+**Yaqub Khan K**  
+📧 yaqubkhank80@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yaqubkhank)
+
+
